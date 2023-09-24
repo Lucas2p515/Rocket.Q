@@ -1,5 +1,6 @@
 <h1 align="center">
-![Visualização de Admin](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/be6850b0-05f0-4744-98de-870992c5a98a)
+![Captura de tela 2023-09-24 002557](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/3fc22429-b2f9-41d5-894f-9053f683f4ed)
+
 
 </h1>
 
