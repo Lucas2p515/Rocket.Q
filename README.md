@@ -1,5 +1,5 @@
 <h1 align="center">
-  ![Visualização de Admin](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/64dcaa26-4f18-48e3-99e4-6746ae7484e6)
+![Visualização de Admin](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/be6850b0-05f0-4744-98de-870992c5a98a)
 
 </h1>
 
