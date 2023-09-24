@@ -1,8 +1,11 @@
 <h1 align="center">
-![Captura de tela 2023-09-24 002557](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/3fc22429-b2f9-41d5-894f-9053f683f4ed)
+
+Captura de tela 2023-09-24 002612](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/2d4dc193-32ef-4bf2-a76c-b76bcd73fdfd)
+
 
 
 </h1>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
