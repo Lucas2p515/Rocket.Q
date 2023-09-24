@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
+  ![Visualização de Admin](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/64dcaa26-4f18-48e3-99e4-6746ae7484e6)
+
 </h1>
 
 <p align="center">
