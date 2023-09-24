@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Captura de tela 2023-09-24 002612](https://github.com/Lucas2p515/Rocket.Q/assets/78909214/2d4dc193-32ef-4bf2-a76c-b76bcd73fdfd)
+
 
 
 
